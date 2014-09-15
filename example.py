@@ -1,1 +1,1 @@
-print "neurio is the greatest!"
+print "neurio is the great"
